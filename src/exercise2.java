@@ -8,7 +8,7 @@ public class exercise2 {
 		trueOrFalse.add(true);
 		trueOrFalse.add(false);
 		trueOrFalse.add(false);
-		trueOrFalse.add(true);
+		trueOrFalse.add(true); 
 		trueOrFalse.add(false);
 
 		for (Boolean right: trueOrFalse) {
